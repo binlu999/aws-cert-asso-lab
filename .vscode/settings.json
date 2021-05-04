@@ -1,0 +1,16 @@
+{
+    "python.pythonPath": "C:\\Program Files\\Python38\\python.exe",
+    "yaml.customTags": [
+        "!Equals sequence",
+        "!FindInMap sequence",
+        "!GetAtt",
+        "!GetAZs",
+        "!ImportValue",
+        "!Join sequence",
+        "!Ref",
+        "!Select sequence",
+        "!Split sequence",
+        "!Sub",
+        "!Base64"
+      ]
+}

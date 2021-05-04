@@ -1,0 +1,23 @@
+[
+    {
+      "ParameterKey": "VpcId",
+      "ParameterValue": "vpc-28748855"
+    }, 
+    {
+      "ParameterKey": "Subnets",
+      "ParameterValue": "subnet-861f7a88,subnet-2a502367"
+    },
+    {
+      "ParameterKey": "SecurityGroup",
+      "ParameterValue": "sg-02e8519fd51f65cd4"
+    },
+    {
+        "ParameterKey": "InstanceType",
+        "ParameterValue": "t2.micro"
+      },
+      {
+        "ParameterKey": "KeyName",
+        "ParameterValue": "amyam-dev-key"
+      }
+
+  ]
